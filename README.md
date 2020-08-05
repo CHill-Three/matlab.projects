@@ -2,53 +2,32 @@
 <!-- 1). To break lines: do two spaces after the line or do <br/> -->
 
 <!-- Title -->
-# CHill-Three's github.io Projects Homepage
-Hey there! Welcome to my first repository created on (7/20/2020)<br/>
-This is the homepage for my list of program project repositorys and helpful resources.<br/>
-Scroll down below and click on a resource to explore more.<br/>
+# CHill-Three's github.io MATLAB Page
+Hey there! Welcome to my MATLAB projects repository created on (8/5/2020)<br/>
+I hope you enjoy looking around!<br/>
+<!-- Table of Contents (TITLES) -->
 
-<!-- Featured Project -->
-## ⭐ Featured Project ⭐
-
-### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
-![RGBLed.gif](arduino.github.io/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
-
-<!-- Table of Contents (Programs & Descriptions) -->
+<!-- Home Button (Home) -->
 <style>
 .tablelines table, .tablelines td, .tablelines th {
-        border: 2px solid blue;
+        border: 2px solid black;
         }
 </style>
-
-| Program List | Description |
-| :-: | --- |
-| [Arduino](https://chill-three.github.io/arduino.github.io/) | This is a list of my completed projects from the starter projects from Elegoo’s Arduino manuel. |
-| [p5.js](https://chill-three.github.io/p5.js.github.io/) | This is a list of my completed projects using heavy inspiration from the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js. |
-
-{: .tablelines}
-<!-- End of Table of Contents (Programs & Descriptions) -->
-
-<!-- Helpful learning resources (Programs & Descriptions) -->
-## Helpful learning resources
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 2px solid blue;
-        }
-</style>
-
-| Website List | Description |
-| :-: | --- |
-| [Quizlet](https://quizlet.com/_8kbrko?x=1jqt&i=25cb42) | This is my Quizlet containing a list of common abbreviations used within Digital Circuits (Source Material: Digital Concepts Using Standard Integrated Circuits by Richard S. Sandige (1978)). |
-
+| :-: |
+| [Back to Homepage](https://chill-three.github.io/) |
 {: .tablelines}
 
-<!-- End of helpful learning resources (Programs & Descriptions) -->
+# Table of contents
+1. [MATLAB Starter Projects](#MATLAB Starter Projects)<br/>
+  I. [Project 1: Fibonacci Sequence](#Project 1: Fibonacci Sequence)<br/>
+<!-- Table of Contents (BODY) -->
 
-<!-- Change Log List -->
-> ## Recent Change Log:
->
->> - Added Project 9: Ultrasonic Sensor Module (8/5/2020)
->> - Added Project 8: Servo (8/1/2020)
->> - Added Project 7: Tilt Ball Switch (7/31/2020)
->> - Created featured project section (7/29/2020)
->> - Created program list & description (7/29/2020)
+<!-- p5.js -->
+## MATLAB Starter Projects <a name="MATLAB Starter Projects"></a>
+This is a list of my completed starter projects using inspiration from previously completed Java school assignments
+
+<!-- Project 1: MetaBalls (SUB-PARA) -->
+### Project 1: Fibonacci Sequence <a name="Project 1: Fibonacci Sequence"></a>
+![Fib.PNG](/MATLAB/Project 1: Fibonacci Sequence/Fib.PNG)<br/>
+Resources for - Project 1: Fibonacci Sequence<br/>
+[Code for Fibonacci Sequence (class) (Fibonacci.txt)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%201:%20Fibonacci%20Sequence/Fibonacci.txt)<br/>
