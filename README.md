@@ -28,6 +28,6 @@ This is a list of my completed starter projects utilizing MATLAB. The MATLAB sta
 
 <!-- Project 1: MetaBalls (SUB-PARA) -->
 ### Project 1: Fibonacci Sequence <a name="Project 1: Fibonacci Sequence"></a>
-![Fib.PNG](/MATLAB/Project 1: Fibonacci Sequence/Fib.PNG)<br/>
+![Fibonacci.gif](/MATLAB/Project 1: Fibonacci Sequence/Fibonacci.gif)<br/>
 Resources for - Project 1: Fibonacci Sequence<br/>
 [Code for Fibonacci Sequence (class) (Fibonacci.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%201:%20Fibonacci%20Sequence/Fibonacci.m)<br/>
