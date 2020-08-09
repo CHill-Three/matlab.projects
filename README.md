@@ -53,7 +53,7 @@ Resources for - Project 3: Simple Pascal's Triangle<br/>
 
 <!-- Project 3A: Formatted Pascal's Triangle (SUB-PARA) -->
 ### Project 3A: Formatted Pascal's Triangle <a name="Project 3A: Formatted Pascal's Triangle"></a>
-![PascalTri.gif](/MATLAB/Project 3A: Formatted Pascal's Triangle/PascalTri.gif)<br/>
+![PascalTriangle.gif](/MATLAB/Project 3A: Formatted Pascal's Triangle/PascalTri.gif)<br/>
 ![PascalTri.PNG](/MATLAB/Project 3A: Formatted Pascal's Triangle/PascalTri.PNG)<br/>
 Resources for - Project 3A: Formatted Pascal's Triangle<br/>
 [Code for Formatted Pascal's Triangle (class) (PascalTri.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%203A:%20Formatted%20Pascal's%20Triangle/PascalTri.m)<br/>
