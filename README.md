@@ -22,6 +22,7 @@ I hope you enjoy looking around!<br/>
   I. [Project 1: Fibonacci Sequence](#Project 1: Fibonacci Sequence)<br/>
   II. [Project 2: Floyd's Triangle](#Project 2: Floyd's Triangle)<br/>
   III. [Project 3: Simple Pascal's Triangle](#Project 3: Simple Pascal's Triangle)<br/>
+  III - A. [Project 3A: Formatted Pascal's Triangle](#Project 3A: Formatted Pascal's Triangle)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- MATLAB -->
@@ -48,4 +49,11 @@ Resources for - Project 2: Floyd's Triangle<br/>
 ![PascalTriSIM.gif](/MATLAB/Project 3: Simple Pascal's Triangle/PascalTriSIM.gif)<br/>
 ![PascalTriSIM.PNG](/MATLAB/Project 3: Simple Pascal's Triangle/PascalTriSIM.PNG)<br/>
 Resources for - Project 3: Simple Pascal's Triangle<br/>
-[Code for Floyd's Triangle (class) (SimplePascal.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%203:%20Simple%20Pascal's%20Triangle/SimplePascal.m)<br/>
+[Code for Pascal's Triangle (class) (SimplePascal.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%203:%20Simple%20Pascal's%20Triangle/SimplePascal.m)<br/>
+
+<!-- Project 3A: Formatted Pascal's Triangle (SUB-PARA) -->
+### Project 3A: Formatted Pascal's Triangle <a name="Project 3A: Formatted Pascal's Triangle"></a>
+![PascalTri.gif](/MATLAB/Project 3A: Formatted Pascal's Triangle/PascalTri.gif)<br/>
+![PascalTri.PNG](/MATLAB/Project 3A: Formatted Pascal's Triangle/PascalTri.PNG)<br/>
+Resources for - Project 3A: Formatted Pascal's Triangle<br/>
+[Code for Formatted Pascal's Triangle (class) (PascalTri.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%203A:%20Formatted%20Pascal's%20Triangle/PascalTri.m)<br/>
