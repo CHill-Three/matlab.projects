@@ -21,6 +21,7 @@ I hope you enjoy looking around!<br/>
 1. [MATLAB Starter Projects](#MATLAB Starter Projects)<br/>
   I. [Project 1: Fibonacci Sequence](#Project 1: Fibonacci Sequence)<br/>
   II. [Project 2: Floyd's Triangle](#Project 2: Floyd's Triangle)<br/>
+  III. [Project 3: Simple Pascal's Triangle](#Project 3: Simple Pascal's Triangle)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- MATLAB -->
@@ -41,3 +42,10 @@ Resources for - Project 1: Fibonacci Sequence<br/>
 ![FloydTri.PNG](/MATLAB/Project 2: Floyd's Triangle/FloydTri.PNG)<br/>
 Resources for - Project 2: Floyd's Triangle<br/>
 [Code for Floyd's Triangle (class) (FloydTri.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%202:%20Floyd's%20Triangle/FloydTri.m)<br/>
+
+<!-- Project 3: Simple Pascal's Triangle (SUB-PARA) -->
+### Project 3: Simple Pascal's Triangle <a name="Project 3: Simple Pascal's Triangle"></a>
+![PascalTriSIM.gif](/MATLAB/Project 3: Simple Pascal's Triangle/PascalTriSIM.gif)<br/>
+![PascalTriSIM.PNG](/MATLAB/Project 3: Simple Pascal's Triangle/PascalTriSIM.PNG)<br/>
+Resources for - Project 3: Simple Pascal's Triangle<br/>
+[Code for Floyd's Triangle (class) (SimplePascal.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%203:%20Simple%20Pascal's%20Triangle/SimplePascal.m)<br/>
