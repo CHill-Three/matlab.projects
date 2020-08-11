@@ -23,7 +23,7 @@ I hope you enjoy looking around!<br/>
   II. [Project 2: Floyd's Triangle](#Project 2: Floyd's Triangle)<br/>
   III. [Project 3: Simple Pascal's Triangle](#Project 3: Simple Pascal's Triangle)<br/>
   III - A. [Project 3A: Formatted Pascal's Triangle](#Project 3A: Formatted Pascal's Triangle)<br/>
-  IV. [Project 4: Simple Graphical User Interface (GUI)](#Project 4: Simple Graphical User Interface (GUI))<br/>
+  IV. [Project 4: Basic User Interface](#Project 4: Basic User Interface)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- MATLAB -->
@@ -59,9 +59,9 @@ Resources for - Project 3: Simple Pascal's Triangle<br/>
 Resources for - Project 3A: Formatted Pascal's Triangle<br/>
 [Code for Formatted Pascal's Triangle (class) (PascalTri.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%203A:%20Formatted%20Pascal's%20Triangle/PascalTri.m)<br/>
 
-<!-- Project 3A: Formatted Pascal's Triangle (SUB-PARA) -->
-### Project 4: Simple Graphical User Interface (GUI) <a name="Project 4: Simple Graphical User Interface (GUI)"></a>
-![FourProgExampleGUI.gif](/MATLAB/Project 4: Simple Graphical User Interface (GUI)/FourProgExampleGUI.gif)<br/>
-![GUI.PNG](/MATLAB/Project 4: Simple Graphical User Interface (GUI)/GUI.PNG)<br/>
-Resources for - Project 4: Simple Graphical User Interface (GUI)<br/>
-[Code for Simple Graphical User Interface (class) (FourProgGUIExported.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%204:%20Simple%20Graphical%20User%20Interface%20(GUI)/FourProgGUIExported.m)<br/>
+<!-- Project 4: Basic User Interface (SUB-PARA) -->
+### Project 4: Basic User Interface <a name="Project 4: Basic User Interface"></a>
+![FourProgExampleGUI.gif](/MATLAB/Project 4: Basic User Interface/FourProgExampleGUI.gif)<br/>
+![GUI.PNG](/MATLAB/Project 4: Basic User Interface/GUI.PNG)<br/>
+Resources for - Project 4: Basic User Interface<br/>
+[Code for Basic User Interface (class) (FourProgGUIExported.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%204:%20Basic%20User%20Interface/FourProgGUIExported.m)<br/>
