@@ -17,24 +17,24 @@ classdef FourProgGUIExported < matlab.apps.AppBase
 
     % Callbacks that handle component events
     methods (Access = private)
-
+    
         % Button pushed function: SimplePascalTriangleButton
-        function SimplePascalTriangleButtonPushed(app, event)
+        function SimplePascalTriangleButtonPushed(~, ~)
         run('C:\Users\ASUSi3\Desktop\MATLABProg\PascalTri.m')
         end
 
         % Button pushed function: FormattedPascalTriangleButton
-        function FormattedPascalTriangleButtonPushed(app, event)
+        function FormattedPascalTriangleButtonPushed(~, ~)
         run('C:\Users\ASUSi3\Desktop\MATLABProg\ProperPascalTri.m')
         end
 
         % Button pushed function: FloydsTriangle
-        function FloydsTriangleButtonPushed(app, event)
+        function FloydsTriangleButtonPushed(~, ~)
         run('C:\Users\ASUSi3\Desktop\MATLABProg\FloydTri.m')
         end
 
         % Button pushed function: FibonacciNumbersButton
-        function FibonacciNumbersButtonPushed(app, event)
+        function FibonacciNumbersButtonPushed(~, ~)
         run('C:\Users\ASUSi3\Desktop\MATLABProg\Fibonacci.m')
         end
     end
