@@ -23,12 +23,13 @@ I hope you enjoy looking around!<br/>
   II. [Project 2: Floyd's Triangle](#Project 2: Floyd's Triangle)<br/>
   III. [Project 3: Simple Pascal's Triangle](#Project 3: Simple Pascal's Triangle)<br/>
   III - A. [Project 3A: Formatted Pascal's Triangle](#Project 3A: Formatted Pascal's Triangle)<br/>
-  IV. [Project 4: Basic User Interface](#Project 4: Basic User Interface)<br/>
+2. [MATLAB App Designer](#MATLAB App Designer)<br/>
+  I. [Project 1: Basic User Interface](#Project 1: Basic User Interface)<br/>
 <!-- Table of Contents (BODY) -->
 
-<!-- MATLAB -->
+<!-- MATLAB Starter Projects -->
 ## MATLAB Starter Projects <a name="MATLAB Starter Projects"></a>
-This is a list of my completed starter projects utilizing MATLAB. The MATLAB starter projects featured on this website are my attempts at previously assigned Java school assignments.
+This is a list of my completed starter projects utilizing MATLAB. The MATLAB starter projects featured below are my attempts at previously assigned school assignments utilizing Java.
 
 <!-- Project 1: Fibonacci Sequence (SUB-PARA) -->
 ### Project 1: Fibonacci Sequence <a name="Project 1: Fibonacci Sequence"></a>
@@ -59,9 +60,13 @@ Resources for - Project 3: Simple Pascal's Triangle<br/>
 Resources for - Project 3A: Formatted Pascal's Triangle<br/>
 [Code for Formatted Pascal's Triangle (class) (PascalTri.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%203A:%20Formatted%20Pascal's%20Triangle/PascalTri.m)<br/>
 
-<!-- Project 4: Basic User Interface (SUB-PARA) -->
-### Project 4: Basic User Interface <a name="Project 4: Basic User Interface"></a>
+<!-- MATLAB App Designer -->
+## MATLAB App Designer <a name="MATLAB App Designer"></a>
+This is a list of my completed starter projects utilizing MATLAB App Designer.
+
+<!-- Project 1: Basic User Interface (SUB-PARA) -->
+### Project 1: Basic User Interface <a name="Project 1: Basic User Interface"></a>
 ![FourProgExampleGUI.gif](/MATLAB/Project 4: Basic User Interface/FourProgExampleGUI.gif)<br/>
 ![GUI.PNG](/MATLAB/Project 4: Basic User Interface/GUI.PNG)<br/>
-Resources for - Project 4: Basic User Interface<br/>
+Resources for - Project 1: Basic User Interface<br/>
 [Code for Basic User Interface (class) (FourProgGUIExported.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%204:%20Basic%20User%20Interface/FourProgGUIExported.m)<br/>
