@@ -66,7 +66,7 @@ This is a list of my completed starter projects utilizing MATLAB App Designer.
 
 <!-- Project 1: Basic User Interface (SUB-PARA) -->
 ### Project 1: Basic User Interface <a name="Project 1: Basic User Interface"></a>
-![FourProgExampleGUI.gif](/MATLAB/Project 4: Basic User Interface/FourProgExampleGUI.gif)<br/>
-![GUI.PNG](/MATLAB/Project 4: Basic User Interface/GUI.PNG)<br/>
+![FourProgExampleGUI.gif](/MATLAB/APP DESIGNER - Project 1: Basic User Interface/FourProgExampleGUI.gif)<br/>
+![GUI.PNG](/MATLAB/APP DESIGNER - Project 1: Basic User Interface/GUI.PNG)<br/>
 Resources for - Project 1: Basic User Interface<br/>
-[Code for Basic User Interface (class) (FourProgGUIExported.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/Project%204:%20Basic%20User%20Interface/FourProgGUIExported.m)<br/>
+[Code for Basic User Interface (class) (FourProgGUIExported.m)](https://github.com/CHill-Three/matlab.github.io/blob/master/MATLAB/APP%20DESIGNER%20-%20Project%201:%20Basic%20User%20Interface/FourProgGUIExported.m)<br/>
