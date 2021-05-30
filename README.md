@@ -29,7 +29,7 @@ I hope you enjoy looking around!<br/>
 
 <!-- MATLAB Starter Projects -->
 ## MATLAB Starter Projects <a name="MATLAB Starter Projects"></a>
-This is a list of my completed starter projects utilizing MATLAB. The MATLAB starter projects featured below are my attempts at previously assigned school assignments utilizing Java.
+This is a list of my completed starter projects utilizing MATLAB. I hope you enjoy!
 
 <!-- Project 1: Fibonacci Sequence (SUB-PARA) -->
 ### Project 1: Fibonacci Sequence <a name="Project 1: Fibonacci Sequence"></a>
