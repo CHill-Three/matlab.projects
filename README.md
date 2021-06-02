@@ -4,7 +4,6 @@
 <!-- Title -->
 # CHill-Three's github.io MATLAB Page
 Hey there! Welcome to my MATLAB projects repository created on August 5, 2020.<br/>
-I hope you enjoy looking around!<br/>
 <!-- Table of Contents (TITLES) -->
 
 <!-- Home Button (Home) -->
