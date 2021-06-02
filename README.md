@@ -3,7 +3,7 @@
 
 <!-- Title -->
 # CHill-Three's github.io MATLAB Page
-Hey there! Welcome to my MATLAB projects repository created on (8/5/2020)<br/>
+Hey there! Welcome to my MATLAB projects repository created on August 5, 2020.<br/>
 I hope you enjoy looking around!<br/>
 <!-- Table of Contents (TITLES) -->
 
@@ -29,7 +29,7 @@ I hope you enjoy looking around!<br/>
 
 <!-- MATLAB Starter Projects -->
 ## MATLAB Starter Projects <a name="MATLAB Starter Projects"></a>
-This is a list of my completed starter projects utilizing MATLAB. I hope you enjoy!
+MATLAB is a programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed starter projects utilizing MATLAB. I hope you enjoy!
 
 <!-- Project 1: Fibonacci Sequence (SUB-PARA) -->
 ### Project 1: Fibonacci Sequence <a name="Project 1: Fibonacci Sequence"></a>
