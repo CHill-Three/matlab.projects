@@ -19,14 +19,16 @@ Floyd's triangle is a 90-degree (right-angled) triangle that contains continuous
 ## Project 3: Simple Pascal's Triangle 
 ![PascalTriSIM](https://raw.githubusercontent.com/CHill-Three/matlab.projects/master/MATLAB/Project%203%3A%20Simple%20Pascal's%20Triangle/PascalTriSIM-1.png?raw=true "PascalTriSIM")
 #### Description:
-Pascal’s triangle, in mathematics, is a triangular geometric arrangement that contains the values of the binomial coefficient. It is a triangular array constructed by aligning numbers in new rows within the shape of a pyramid. However, this program follows a simplistic form of the sequence utilizing MATLAB. 
+Pascal’s triangle, in mathematics, is a triangular geometric arrangement that contains the values of the binomial coefficient. It is a triangular array constructed by aligning numbers in new rows within the shape of a pyramid. However, this program follows a simplistic form of the sequence utilizing MATLAB.
+
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## Project 3A: Formatted Pascal's Triangle 
 ![PascalTri](https://raw.githubusercontent.com/CHill-Three/matlab.projects/master/MATLAB/Project%203A%3A%20Formatted%20Pascal's%20Triangle/PascalTri-1.png?raw=true "PascalTri")
 #### Description:
-Pascal’s triangle, in mathematics, is a triangular geometric arrangement that contains the values of the binomial coefficient. It is a triangular array constructed by aligning numbers in new rows within the shape of a pyramid. This program fully follows this sequence utilizing MATLAB. 
+Pascal’s triangle, in mathematics, is a triangular geometric arrangement that contains the values of the binomial coefficient. It is a triangular array constructed by aligning numbers in new rows within the shape of a pyramid. This program fully follows this sequence utilizing MATLAB.
+
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## (MATLAB App Designer) - Project 1: Basic User Interface with four simple programs 
 ![GUI](https://raw.githubusercontent.com/CHill-Three/matlab.projects/master/MATLAB/APP%20DESIGNER%20-%20Project%201%3A%20Basic%20User%20Interface/GUI-1.png?raw=true "GUI")
 #### Description:
-  This program is created utilizing MATLAB and MATLAB App Designer. 
+The Basic User Interface with four simple programs is a simple user-interface that contains all the previous four programs within it. This program is created utilizing MATLAB and MATLAB App Designer. 
