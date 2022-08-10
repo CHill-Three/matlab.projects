@@ -31,4 +31,4 @@ Pascal’s triangle, in mathematics, is a triangular geometric arrangement that 
 ## (MATLAB App Designer) - Project 1: Basic User Interface with four simple programs 
 ![GUI](https://raw.githubusercontent.com/CHill-Three/matlab.projects/master/MATLAB/APP%20DESIGNER%20-%20Project%201%3A%20Basic%20User%20Interface/GUI-1.png?raw=true "GUI")
 #### Description:
-The Basic User Interface with four simple programs is a simple user-interface that contains all the previous four programs within it. This program is created utilizing MATLAB and MATLAB App Designer. 
+The Basic User Interface with four simple programs is a simple user interface that contains all the previous four programs within this repository. This program is created utilizing MATLAB and MATLAB App Designer. 
